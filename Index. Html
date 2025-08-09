@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>         جمعية البر الخيرية بالجديد الثورة (1)
+  </title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      margin: 0; padding: 0;
+    }
+    header {
+      background-color: #004d40;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #00796b;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px 0;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 15px;
+      direction: rtl;
+    }
+    h1, h2 {
+      color: #004d40;
+    }
+    section {
+      margin-bottom: 40px;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 6px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #004d40;
+      color: white;
+      margin-top: 40px;
+    }
+    a.button {
+      display: inline-block;
+      background:#00796b;
+      color:#fff;
+      padding:12px 20px;
+      border-radius:5px;
+      text-decoration:none;
+      font-weight:bold;
+      margin-top: 15px;
+    }
+    a.button:hover {
+      background:#004d40;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <p>جمعية البر الخيرية بالجديد الثورة (1)
+  </p>
+  <p>للعلاج والخدمات الطبية في السودان</p>
+</header>
+
+<nav>
+  <a href="#about">من نحن</a>
+  <a href="#services">خدماتنا</a>
+  <a href="#contact">طلب مساعدة</a>
+  <a href="#donate">التبرع</a>
+</nav>
+
+<main>
+  <section id="about">
+    <h2>من نحن</h2>
+    <p>
+      جمعية البر الخيرية بالجديد الثورة (1) هي جمعية غير ربحية تهدف إلى تقديم المساعدة والعون للأسر المحتاجة في مجالات العلاج والرعاية الصحية، إضافة إلى دعم المبادرات الإنسانية والخيرية التي تخدم المجتمع.
+      تسعى الجمعية إلى مد يد العون للمرضى والمحتاجين، وتوفير العلاج والأدوية، والمساهمة في تخفيف معاناتهم، انطلاقًا من قيم التكافل والتراحم التي حثنا عليها ديننا الحنيف.
+    </p>
+  </section>
+
+  <section id="services">
+    <h2>خدماتنا</h2>
+    <ul>
+      <li>تقديم الدعم المالي للعلاج الطبي</li>
+      <li>توفير المستلزمات الطبية</li>
+      <li>تنظيم حملات التوعية الصحية</li>
+      <li>المساعدة في حجز مواعيد للعلاج في المستشفيات</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>طلب مساعدة / تواصل معنا</h2>
+    <p>يرجى تعبئة النموذج أدناه لطلب الدعم الطبي والعلاجي.</p>
+
+    <!-- ضع هنا رابط نموذج Google Forms الخاص بك -->
+    <iframe 
+      src="https://docs.google.com/forms/d/e/1FAIpQLSfExampleLink/viewform?embedded=true" 
+      width="100%" 
+      height="800" 
+      frameborder="0" 
+      marginheight="0" 
+      marginwidth="0">
+      جاري تحميل النموذج...
+    </iframe>
+
+    <p style="margin-top: 20px;">
+      <strong>رقم التواصل عبر واتساب:</strong><br />
+      <a href="https://chat.whatsapp.com/D8GrWJWqFLJ901u1KT1Rh3" target="_blank" class="button">انضم إلى مجموعتنا على واتساب</a>
+    </p>
+  </section>
+
+  <section id="donate">
+    <h2>التبرع</h2>
+    <p>يمكنكم دعم الجمعية بالتبرع عبر الحساب البنكي التالي:</p>
+    <ul>
+      <li><strong>بنكك:</strong> 3303670</li>
+      <li><strong>اسم الحساب:</strong> جمعية البر الخيرية بالجديد الثورة (1)</li>
+    </ul>
+    <p>جزاكم الله خيرًا على دعمكم الكريم.</p>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 جمعية البر الخيرية بالجديد الثورة (1)</p>
+</footer>
+
+</body>
+</html>
